@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "QUIZ-ONLINE",
+			"path": "../../ONLINE-QUIZ/QUIZ-ONLINE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "QUIZ-ONLINE"
+	}
+}
