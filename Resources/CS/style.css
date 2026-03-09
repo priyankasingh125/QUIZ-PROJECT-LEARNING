@@ -17,7 +17,8 @@ body {
   justify-content: center; /* center items horizontally */
   align-items: center;
   overflow-y: hidden;
-}
+  height: 100%;
+  }
 
 /* Flex container holding all quiz items */
 .quizContainer {
