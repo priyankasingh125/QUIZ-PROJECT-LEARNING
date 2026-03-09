@@ -312,11 +312,11 @@ function StartQuiz() {
 }
 function showQuestion() {
   ResetQuestion();
-  PreviousQuestionIndex = CurrentQuestionIndex;
   //Get The Question from the Array And Append to the answer grid
   currentquestion = questions[CurrentQuestionIndex];
   questionElt.innerHTML = currentquestion.question;
   currentquestion.answers.forEach((answer, index) => {
+    const breakDiv = document.createElement("div");
     const label = document.createElement("label");
     const radio = document.createElement("input");
     radio.type = "radio";
@@ -327,7 +327,6 @@ function showQuestion() {
     label.appendChild(radio);
     label.appendChild(span);
     answerbuttons.appendChild(label);
-    const breakDiv = document.createElement("div");
     breakDiv.className = "flex-break";
     answerbuttons.appendChild(breakDiv);
     radio.addEventListener("click", () => selectAnswer(radio, answer));
