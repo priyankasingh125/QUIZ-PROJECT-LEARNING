@@ -20,7 +20,7 @@ ACCESSIBILITY:
 <ul>
 <li>I have kept the font size greater than 16px, so that the user with disability can see the website.</li>
 <li>Colour contrasts as well in line with the user with imapired vision.</li>
-As it was a Quiz, website , I have not kept any other features for the user. They can open the website in different devices according to their accessibilities.</li>
+As it was a Quiz, website , I have not kept any other features for the user. They can open the website in different devices according to their accessibilities.
 
 VALIDATION:
 <p>
@@ -39,4 +39,4 @@ Check the Folder \resources\project-desc\
 
 CSS/HTML/JAVASCRIPT VALIDATION CHECKS:
 
-Check the Folder \Resources\report\
+Check the Folder \resources\report\
