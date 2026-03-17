@@ -115,6 +115,7 @@ body {
 }
 
 .headerQues {
+  margin-top: 5px;;
   color: #fff;
   text-align: center;
   justify-content: center;
@@ -250,7 +251,7 @@ body {
   }
 
   .headerQues {
-    top: 0%;
+    margin-top: 5px;
     color: #fff;
     text-align: center;
     justify-content: center;
