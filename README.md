@@ -1,5 +1,5 @@
 #Javascript-Learning
-#PROJECT-BRIEF:
+<strong>PROJECT-BRIEF:</strong>
 <p>This is an Online Quiz, Designed using Plain HTML AND CSS.
 You can open the Apps in all the various devices, You can OPen the Apps In VS , And run in the GO-LIVE server, which runs or publishes the Application on the Local Host.
 </p>
@@ -17,12 +17,15 @@ If User selects a wrong answer , the correct answer will be highlighted, but if 
 </p>
 
 ACCESSIBILITY:
-I have kept the font size greater than 16px, so that the user with disability can see the website, Colour contrasts as well in line with the user with imapired vision.
-As it was a Quiz, website , I have not kept any other features for the user. They can open the website in different devices according to their accessibilities.
+<ul>
+<li>I have kept the font size greater than 16px, so that the user with disability can see the website.</li>
+<li>Colour contrasts as well in line with the user with imapired vision.</li>
+As it was a Quiz, website , I have not kept any other features for the user. They can open the website in different devices according to their accessibilities.</li>
 
 VALIDATION:
-
+<p>
 Quiz does not navigate to the next question , until and unless user selects an answer.If the user selects an incorrect answer for the first time, user cannot select the correct answer again, as the correct answer is highlighted , and the score calculation is done already.
+</p>
 
 SCREENSHOTS OF THE APP:
 
@@ -36,9 +39,4 @@ Check the Folder \resources\project-desc\
 
 CSS/HTML/JAVASCRIPT VALIDATION CHECKS:
 
-Check the Folder \resources\report\
-
-
-
-
-
+Check the Folder \Resources\report\
